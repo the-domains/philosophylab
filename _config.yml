@@ -1,0 +1,23 @@
+name: philosophylab
+favicon: null
+layout_spectrum: 0.5307029515970498
+typography_spectrum: 0.42008291254751384
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5701188175007701
+  lightness: 0.8248388341162354
+  saturation: 0.535251465626061
+  rhythmicContrast: 0.034260790795087814
+purpose: []
